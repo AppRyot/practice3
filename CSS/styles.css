@@ -1,0 +1,23 @@
+/***************TAG SELECTORS**************/
+
+h1 {
+  font-size: 200px;
+  color: pink;
+ }
+
+ /*
+ img {
+   animation: 3s linear 1s infinite alternate slidein;
+ }
+
+*/
+
+/****************CLASS SELECTORS************/
+
+.bacon {
+  background-color: green;
+
+}
+.broccoli {
+  background-color: red;
+}
